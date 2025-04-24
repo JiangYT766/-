@@ -1,10 +1,8 @@
 #云播直连列表
 # 域名后缀匹配
-DOMAIN-SUFFIX,hktv06.com
 DOMAIN-SUFFIX,hktvyb.vip
 DOMAIN-SUFFIX,tvyun09.com
 DOMAIN-SUFFIX,tvyb06.com
-
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,tvyb03
